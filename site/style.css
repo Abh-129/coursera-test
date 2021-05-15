@@ -1,40 +1,74 @@
 
+			body{ width: 1000px; margin: 0; padding:0; background:
+			url("https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg")
+			 no-repeat ; 
+			 background-size: 1250px
+			}
+
+
 			/* all h2 tags*/
-		h2{font-size: 30px;
-			color: blue;
+			ul{width: 1000px;
+			margin: 0px 400px 10px 400px;
+				margin:0;
+				padding:0;
+				color:black ;
+			}
+
+		h2{width: 1000px;
+			margin: 0px 400px 10px 400px;
+			margin: 0;
+			padding:0;
+			font-size: 30px;
+			color: #feb236;
 			font-weight: bold;
 			font-style: italic;
 			text-decoration: underline;
-			background-color:gold;
+		
 		}
 		/* for the head line*/
 		h1{
+			width: 400px;
+			margin: 0px 400px 10px 400px;
+			padding:0;
 			text-decoration: underline;
 			font-style: italic;
 			font-size: 70px;
-			color: black;
+			color: #50394c;
 			font-weight: bold;
 			text-align: center;	
-			background-color: red;
+			
 		}
 		/*for sub texts*/
-		.bold{
+		.bold{width: 1000px;
+			margin: 0px 400px 10px 400px;
+			margin: 0;
+			padding:0;
 			font-size: 30px;
 			font-weight: bold;
-			color: blue;
-			background-color: gold;
+			color: #feb236;
+			
 			text-decoration: underline;
 			font-style: italic;
 		}
 		/* the whole test*/
-		h3{
-			color: green;
-			background-color: lightblue;
+		h3{width: 1000px;
+			margin: 0px 400px 10px 400px;
+			margin: 0;
+			padding:0;
+			color: black;
+			
 
 		}
-		p{
+		p{width: 1000px;
+			margin: 0px 400px 10px 400px;
+			margin: 0;
+			padding:0;
 			font-size: 20px;
-			background-color: lightblue;
+			color: blue;
+			font-weight: bold;
+			font-size:20px;
+			font-style: italic;
+			
 		}
 
 
