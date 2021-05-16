@@ -1,5 +1,6 @@
 
-			body{ width: 1000px; margin: 0; padding:0; background:
+			body{ 
+				width: 1000px;  padding:10px; background:
 			url("https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg")
 			 no-repeat ; 
 			 background-size: 1250px
@@ -67,8 +68,7 @@
 			color: blue;
 			font-weight: bold;
 			font-size:20px;
-			font-style: italic;
-			
+			font-style: italic;			
 		}
 
 
